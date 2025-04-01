@@ -1,7 +1,6 @@
 ## Olá! Eu sou o Everson Alves 👋
  
-- 🔭 Atualmente procurando minha primeira oportunidade como desenvolvedor.
-- 🌱 Estudando Desenvolvimento de Sistema.
+- 🌱 Cursando Técnico em Desenvolvimento de Sistemas.
 - 📫 Contate-me no email: everson.alves18@hotmail.com
 
 - <div style="display: inline_block"><br>
