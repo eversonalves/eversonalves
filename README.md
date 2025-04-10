@@ -1,4 +1,4 @@
-## Olá! Eu sou o Everson Alves 👋
+## Olá! 👋
  
 - 🌱 Técnico em Informatica concluído no Senac.
 - 🌱 Cursando Técnico em Desenvolvimento de Sistemas no Senac.
