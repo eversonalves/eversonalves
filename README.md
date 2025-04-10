@@ -20,6 +20,8 @@
 
 <div>
 
+   <a href="https://komarev.com/ghpvc/?username=eversonalves&label=Profile%20views&color=0e75b6&style=for-the-badge">
+        <img src="https://komarev.com/ghpvc/?username=eversonalves&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
   <a href = "mailto:everson.alves18@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/alveseverson" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
