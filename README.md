@@ -5,7 +5,7 @@
 - 📫 Contate-me no email: everson.alves18@hotmail.com
 
 - <div style="display: inline_block"><br>
- 
+ <div align="center">
   <h2>💻 Conhecimentos DEV 💻</h2>
     <p align="center">
         <a href="https://skillicons.dev">
