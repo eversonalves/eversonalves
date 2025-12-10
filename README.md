@@ -10,7 +10,7 @@
   <h2>💻 Conhecimentos DEV 💻</h2>
     <p align="center">
         <a href="https://skillicons.dev">
-            <img align="center" src="https://skillicons.dev/icons?i=cs,py,mysql,git,github,html,css,js,bootstrap,php,ionic,angular">
+            <img align="center" src="https://skillicons.dev/icons?i=cs,py,mysql,git,github,html,css,js,bootstrap,php,angular,vscode,visualstudio,npm,notion,nodejs,debian,figma">
         </a>
     </p>
     
