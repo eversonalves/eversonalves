@@ -1,7 +1,5 @@
 ## Olá! 👋
- 
-- 🌱 Técnico em Informatica concluído no Senac.
-- 🌱 Cursando Técnico em Desenvolvimento de Sistemas no Senac.
+
 - 📫 Contate-me no email: everson.alves18@hotmail.com
 
 - <div style="display: inline_block"><br>
