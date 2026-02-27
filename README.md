@@ -1,4 +1,4 @@
-## Olá! 👋
+###  Olá! 👋
 
 - 📫 Contate-me no email: everson.alves18@hotmail.com
 - <div style="display: inline_block"><br>
@@ -10,7 +10,6 @@
             <img align="center" src="https://skillicons.dev/icons?i=cs,py,mysql,git,github,html,css,js,bootstrap,php,angular,debian">
         </a>
     </p>
-    
 </div>
   
   ##
