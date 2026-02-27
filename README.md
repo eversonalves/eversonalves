@@ -1,7 +1,6 @@
 ## Olá! 👋
 
 - 📫 Contate-me no email: everson.alves18@hotmail.com
-
 - <div style="display: inline_block"><br>
  
  <div align="center">
