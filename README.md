@@ -1,7 +1,8 @@
 ###  Olá! 👋
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?eversonalves=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+ 
 - 📫 Contate-me no email: everson.alves18@hotmail.com
-- <div style="display: inline_block"><br>
  
  <div align="center">
   <h2>💻 Conhecimentos DEV 💻</h2>
